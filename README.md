@@ -26,14 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Getting acquainted with Android Studio and Android Emulator was time-consuming, especially when the walkthrough was given on an earlier version of Android Studio. However, the
-coding and implementation 
+code was relatively easy to implement.  
 
 ## License
 
